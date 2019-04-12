@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Drill",
+    "price": 40,
+    "image": "drill.jpg"
+  },
+  {
+    "title": "Saw",
+    "price": 28,
+    "image": "saw.jpg"
+  },
+  {
+    "title": "hammer",
+     "price": 52,
+    "image": "hammer.jpeg"
+  },
+  {
+    "title": "Wrench",
+    "price": 28,
+        "image": "Wrench.jpg"
+  },
+  {
+    "title": "Ring wrench",
+    "price": 28,
+    "image": "Ringwrench.jpg"
+  },
+  {
+    "title": "Hoe",
+    "price": 18,
+    "image": "hoe.jpg"
+  },
+  {
+    "title": "Measuring Tape",
+    "price": 18,
+    "image": "MeasuringTape.jpg"
+  }
+  ,
+  {
+    "title": "Wire cutting scissors",
+    "price": 18,
+    "image": "Wirecuttingscissors.jpg"
+  }
+  ,
+  {
+    "title": "Single Ring Wrench",
+    "price": 18,
+    "image": "SingleRingWrench.jpg"
+  },
+  {
+    "title": "Planting spoon",
+    "price": 18,
+    "image": "Plantingspoon.jpg"
+  },
+  {
+    "title": "Dead wrench",
+    "price": 18,
+    "image": "Deadwrench.jpg"
+  },
+  {
+    "title": "Shoveling fork",
+    "price": 18,
+    "image": "Shovelingfork.jpg"
+  }
+]

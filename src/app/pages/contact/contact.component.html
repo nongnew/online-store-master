@@ -1,0 +1,16 @@
+<div *ngIf="contact" class="contact-page">
+  <div class="contact-page-container">
+    <ol class="contact-breadcrumbs">
+        <li class="breadcrumb-item"><a routerLink="/">Home</a></li>
+    </ol>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="product-details-row">
+                <div class="contact-name">{{contact.name}}</div>
+                <h1 class="contact-tel">{{contact.tel}}</h1>
+                <div class="contact-email">{{contact.email }}</div>
+            </div>
+        </div>
+    </div>
+  </div> 
+</div>
